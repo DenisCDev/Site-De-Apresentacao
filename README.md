@@ -1,6 +1,6 @@
 # Site de Apresentação
 
-Utilizado para estudar
+Utilizado para estudar a matéria de front-end
 
 ### Conteúdo
 
