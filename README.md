@@ -1,6 +1,6 @@
 # Site de Apresentação
 
-Utilizado para estudar e por em prática o aprendido
+Utilizado para estudar
 
 ### Conteúdo
 
