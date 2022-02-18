@@ -11,4 +11,4 @@ Utilizado para estudar a matéria de front-end
  - Habilidades
  - Experiência
  - Formação escolar
- - Formação complementar
+ - Formação complementar (Cursos em links que abrem em novas guias)
