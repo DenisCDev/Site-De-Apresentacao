@@ -12,3 +12,8 @@ Utilizado para estudar a matéria de front-end
  - Experiência
  - Formação escolar
  - Formação complementar (Cursos em links que abrem em novas guias)
+
+### Pretendo adicionar 
+
+ - CSS
+ - JS
